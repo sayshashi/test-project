@@ -5,7 +5,7 @@ public class ArrayListStr {
 
 	public static void main(String[] args) {
 
-		 System.out.println("ŁŞçžáâöÑŏẔŎđĔëéïūŪēîăÓņŢėċõḍřĭğīèšäәḤġḨķÚ"+"|       testing1");
+		 System.out.println("ŁŞçžáâöÑŏẔŎđĔëéïūŪēîăÓņŢėċõḍřĭğīèšäәḤġḨķÚ"+"|       testing13242");
 		 HashMap<String, String> mp = new HashMap<>();
       ArrayList<String> ar = new ArrayList<String>(){
     	  @Override public String toString()
